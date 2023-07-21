@@ -14,7 +14,7 @@ fun main() {
     names.forEach{
         println(it)
     }
-    
+
     println()
 
     for (number in numbers) println(number)
